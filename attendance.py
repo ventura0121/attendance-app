@@ -12,7 +12,7 @@ while True:
         s.close()
         break
 
-    elif entry not in s.keys():
+    elif entry not in s.keys yeezy
         print('ID not found; scan again.')
 
     else:
